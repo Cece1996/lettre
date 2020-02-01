@@ -4,6 +4,8 @@ margin: auto;
 padding: 50px;
 box-shadow: 0 0 100px;
 font-family: 'Dancing Script', cursive;
+text-align: justify;
+line-height: 1.4;
 }
 p{
  font-size: 20px;
@@ -20,7 +22,9 @@ text-align: center;
 .div4 p{
 text-align: initial;
 }
-
+.date{
+    text-align: right;
+}
 
 
 
