@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	text-align: justify;
 width: 800px;
@@ -36,3 +37,41 @@ footer{
 
 
 
+=======
+body{
+width: 800px;
+margin: auto;
+padding: 50px;
+box-shadow: 0 0 100px;
+font-family: 'Dancing Script', cursive;
+text-align: justify;
+line-height: 1.4;
+}
+p{
+ font-size: 20px;
+}
+.div1{
+text-align: left;
+}
+.div2{
+text-align: right;
+}
+.div3{
+text-align: center;
+}
+.div4 p{
+text-align: initial;
+}
+.date{
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+>>>>>>> f405010e16f4637cf8727a579960fe99160c91f1
