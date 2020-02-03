@@ -1,26 +1,32 @@
 body{
+	text-align: justify;
 width: 800px;
 margin: auto;
-padding: 50px;
+padding: 60px;
 box-shadow: 0 0 100px;
-font-family: 'Dancing Script', cursive;
+font-family: 'Satisfy', cursive;
 }
 p{
- font-size: 20px;
+ font-size: medium;
 }
-.div1{
-text-align: left;
+p.date{
+	text-align: right;
 }
-.div2{
-text-align: right;
+p.information{
+	text-align: left;
 }
-.div3{
-text-align: center;
+p.destinataire{
+	text-align: center;
 }
-.div4 p{
-text-align: initial;
+p.debut{
+	text-align: center;
 }
-
+p.signature{
+	text-align: right;
+}
+footer{
+	background-image: 
+}
 
 
 
