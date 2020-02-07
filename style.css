@@ -1,13 +1,17 @@
-body{
+main{
 	text-align: justify;
-width: 800px;
-margin: auto;
-padding: 60px;
-box-shadow: 0 0 100px;
-font-family: 'Satisfy', cursive;
+	width: 900px;
+	margin-top: 100px;
+	margin-left: 150px; 
+	margin-right: 100px;
+	margin-bottom: 100px; 
+	padding: 60px;
+	box-shadow: 0 0 100px;
+	height: 2300px;
+	font-family: 'Satisfy', cursive;
 }
 p{
- font-size: medium;
+ 	font-size: 2em;
 }
 p.date{
 	text-align: right;
@@ -27,50 +31,9 @@ p.signature{
 footer{
 	background-image: 
 }
-
-
-
-
-
-
-
-
-
-=======
-body{
-width: 800px;
-margin: auto;
-padding: 50px;
-box-shadow: 0 0 100px;
-font-family: 'Dancing Script', cursive;
-text-align: justify;
-line-height: 1.4;
-}
-p{
- font-size: 20px;
-}
-.div1{
-text-align: left;
-}
-.div2{
-text-align: right;
-}
-.div3{
-text-align: center;
-}
-.div4 p{
-text-align: initial;
-}
-.date{
-    text-align: right;
+img{
+	height: 100px;
+	width: 100px;
 }
 
 
-
-
-
-
-
-
-
->>>>>>> f405010e16f4637cf8727a579960fe99160c91f1
